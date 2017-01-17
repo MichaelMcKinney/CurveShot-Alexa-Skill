@@ -1,0 +1,12 @@
+{
+  "intents": [
+    {
+      "intent": "ShouldCurveIntent",
+      "slots":[]
+    },
+    {
+      "intent": "HelpIntent",
+      "slots": []
+    }
+  ]
+}

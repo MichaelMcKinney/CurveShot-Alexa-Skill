@@ -1,0 +1,26 @@
+HelpIntent help me curve
+HelpIntent what is curve
+HelpIntent help
+HelpIntent help me
+HelpIntent what can I ask you
+HelpIntent get help
+HelpIntent to help
+HelpIntent to help me
+HelpIntent what commands can I ask
+HelpIntent what commands can I say
+HelpIntent what can I do
+HelpIntent what can I use this for
+HelpIntent what questions can I ask
+HelpIntent what can you do
+HelpIntent what do you do
+HelpIntent how do I use you
+HelpIntent how can I use you
+HelpIntent tell me about curve
+HelpIntent what can you tell me
+ShouldCurveIntent should I curve
+ShouldCurveIntent can I curve
+ShouldCurveIntent should I take a shot
+ShouldCurveIntent should I curve or drink
+ShouldCurveIntent should I drink
+ShouldCurveIntent give me a shot
+ShouldCurveIntent give me a drink
